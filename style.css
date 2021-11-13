@@ -1,0 +1,42 @@
+body
+{
+  color: white;
+  background: linear-gradient(purple, pink);
+  align-items: center;
+}
+pan
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading
+{
+  font-size: 25px;
+  border-radius: 10px;
+  font-family: 'Dancing Script', sans-serif;
+}
+label
+{
+  font-size: 14px;
+  color: #62b33a;
+  padding: 6px;
+  border-radius: 10px;
+  background-color: white;
+}
